@@ -10,6 +10,8 @@ The dataset includes raw and processed sensor measurements from piezoelectric
 and temperature sensors recorded during controlled breathing.
 
 ## Methods
+## Results
+![Piezo and Temperature Signals](figures/Sound%20%26%20Temp%20vs%20time.png)
 The MATLAB analysis pipeline includes:
 1. Baseline calibration of piezoelectric and temperature sensor signals
 2. Signal filtering to reduce noise and motion artifacts
