@@ -19,3 +19,6 @@ The MATLAB analysis pipeline includes:
 ## Results
 [![Respiration Plot](Sound%20%26%20Temp%20vs%20time.png)](Sound%20%26%20Temp%20vs%20time.png)
 
+[![Respiration Plot 2](Sound%20and%20TEMP%202.png)](Sound%20and%20TEMP%202.png)
+
+[![Results Figure](Results.fig)](Results.fig)
