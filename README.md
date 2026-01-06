@@ -41,5 +41,6 @@ The MATLAB analysis pipeline includes:
 [![Circuit Breadboard](circuit_breadboard.jpg)](circuit_breadboard.jpg)
 
 ### System Demonstration Video
- [Watch the 5-minute demo](system_demo.mp4)
+ [Watch the 5-minute system demonstration (unlisted)](https://youtu.be/K7ViNk0Mc7I)
+
 
