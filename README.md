@@ -26,11 +26,11 @@ The MATLAB analysis pipeline includes:
 4. Respiration rate calculation based on detected signal peaks
 
 ## Results
-[![Respiration Plot](Sound%20%26%20Temp%20vs%20time.png)](Sound%20%26%20Temp%20vs%20time.png)
+[![Respiration Plot](signal_plot_1.png)](signal_plot_1.png)
 
-[![Respiration Plot 2](Sound%20and%20TEMP%202.png)](Sound%20and%20TEMP%202.png)
+[![Respiration Plot 2](signal_plot_2.png)](signal_plot_2.png)
 
-[![Results Plot](Results%202.png)](Results%202.pn)
+[![Results Plot](results_summary.png)](results_summary.png)
 
 ## Hardware Prototype
 
