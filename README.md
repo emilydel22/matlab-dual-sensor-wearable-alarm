@@ -43,4 +43,8 @@ The MATLAB analysis pipeline includes:
 ### System Demonstration Video
  [Watch the 5-minute system demonstration (unlisted)](https://youtu.be/K7ViNk0Mc7I)
 
+## Project Report
+ [Wearable Alarm System for the Deaf – Full Report (PDF)](WEARABLE%20ALARM%20SYSTEM%20FOR%20THE%20DEAF%20USING%20SOUND%20AND%20TEMPERATURE%20DETECTION.pdf)
+
+
 
