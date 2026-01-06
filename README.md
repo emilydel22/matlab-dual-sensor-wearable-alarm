@@ -21,4 +21,5 @@ The MATLAB analysis pipeline includes:
 
 [![Respiration Plot 2](Sound%20and%20TEMP%202.png)](Sound%20and%20TEMP%202.png)
 
-[![Results Figure](Results.fig)](Results.fig)
+[![Results Plot](Results%202.png)](Results%202.pn)
+
