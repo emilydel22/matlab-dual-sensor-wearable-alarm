@@ -9,6 +9,12 @@ visualization, and respiration rate extraction.
 The dataset includes raw and processed sensor measurements from piezoelectric
 and temperature sensors recorded during controlled breathing.
 
+## Tools
+- MATLAB
+- Arduino
+- Piezoelectric sensor
+- Temperature sensor
+
 ## Methods
 The MATLAB analysis pipeline includes:
 1. Baseline calibration of piezoelectric and temperature sensor signals
