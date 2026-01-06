@@ -23,3 +23,5 @@ The MATLAB analysis pipeline includes:
 
 [![Results Plot](Results%202.png)](Results%202.pn)
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
