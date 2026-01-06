@@ -15,3 +15,7 @@ The MATLAB analysis pipeline includes:
 2. Signal filtering to reduce noise and motion artifacts
 3. Peak detection for identification of respiratory cycles
 4. Respiration rate calculation based on detected signal peaks
+
+## Results
+[![Respiration Plot](Sound%20%26%20Temp%20vs%20time.png)](Sound%20%26%20Temp%20vs%20time.png)
+
