@@ -1,5 +1,8 @@
 # Piezoelectric Respiration Monitoring System (MATLAB)
 
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
 ## Overview
 This project implements a respiration monitoring system using a piezoelectric
 sensor and a temperature sensor. MATLAB was used for signal processing,
@@ -29,5 +32,12 @@ The MATLAB analysis pipeline includes:
 
 [![Results Plot](Results%202.png)](Results%202.pn)
 
-![MATLAB](https://img.shields.io/badge/MATLAB-R2023b-blue)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
+## Hardware Prototype
+
+### Wearable Configuration
+[![Wearable Prototype](wearable_on_wrist.jpg)](wearable_on_wrist.jpg)
+
+### Circuit Implementation
+[![Circuit Breadboard](circuit_breadboard.jpg)](circuit_breadboard.jpg)
+
+
