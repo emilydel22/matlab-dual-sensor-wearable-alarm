@@ -40,4 +40,6 @@ The MATLAB analysis pipeline includes:
 ### Circuit Implementation
 [![Circuit Breadboard](circuit_breadboard.jpg)](circuit_breadboard.jpg)
 
+### System Demonstration Video
+ [Watch the 5-minute demo](system_demo.mp4)
 
